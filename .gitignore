@@ -1,0 +1,7 @@
+bitstream
+*.tcl
+Makefile
+par
+project
+synthesize
+venv/
